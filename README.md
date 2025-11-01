@@ -188,7 +188,6 @@ async def ai_step_async(state):
 ✅ Used for fast workflows like web scraping + LLM.
 
 ---
-"LangGraph is a framework for building reliable, predictable AI agents using a graph-based workflow.
-It allows developers to define each step of an AI process as nodes and edges, making the system more controllable, debuggable, and production-ready."
 
-
+“LangGraph is a framework built on top of LangChain that turns AI workflows into graphs.
+This makes multi-step and multi-agent applications more stable, debuggable, and production-ready.”
